@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Profil Filipa Wiewióry
+Studenta o niewielkich umiejętnościach ale sporych możliwościach
 <!--
 **czwiewior04/czwiewior04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
