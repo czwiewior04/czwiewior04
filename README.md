@@ -1,5 +1,11 @@
 ## Profil Filipa Wiewióry
 Studenta o niewielkich umiejętnościach ale sporych możliwościach
+
+Link do repozytorium do zadania 10:
+https://github.com/tensorflow/tensorflow
+
+Link do artykułu z zadania 10:
+https://paperswithcode.com/paper/tflearn-tensorflows-high-level-module-for
 <!--
 **czwiewior04/czwiewior04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
